@@ -15,7 +15,7 @@ struct ListView: View {
 		NavigationStack {
 			List {
 				if tasks.items.isEmpty {
-					Text("Nothing to do for now")
+					Section("Nothing to do for now") {}
 				} else {
 					if !tasks.items.filter({ !$0.completed }).isEmpty {
 						Section("Active") {
