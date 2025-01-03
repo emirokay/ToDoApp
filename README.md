@@ -1,10 +1,10 @@
-
 # ToDoApp
-
 A SwiftUI-based task management app designed to help users organize, manage, and track their to-do items efficiently. The app supports adding new tasks, marking tasks as completed, deleting tasks, and automatically saving data locally for seamless usage.
 
-## Features
+## Screen Recording
+https://github.com/user-attachments/assets/48b09c12-75fc-43b7-9cf4-ea875ba55786
 
+## Features
 - **Task Management**:
   - Add new tasks with descriptions.
   - Mark tasks as completed or active with a simple tap.
